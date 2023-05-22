@@ -1,0 +1,2 @@
+
+        cout << "Actions: " << act << endl;

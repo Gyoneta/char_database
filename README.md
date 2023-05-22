@@ -1,0 +1,1 @@
+This database is intended to be used by game dev community or developers that have a passion in creating games for fun. The database allows devs to use characters stats however they like and also make contributions by adding characters of their own, using the same stats and parameters coded.
